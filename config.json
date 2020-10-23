@@ -1,0 +1,6 @@
+{
+    "token": "Your bot token",
+    "prefix": "?",
+    "ownerID": "Your discord ID",
+    "ownerName": "Your discord name"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all": "0.0.0",
+    "beautify": "0.0.8",
+    "bye": "^1.0.1",
+    "clean": "^4.0.2",
+    "db": "^3.1.0",
+    "discord-leveling": "^1.1.0",
+    "discord.js": "^12.3.1",
+    "discord.js-commando": "^0.10.0",
+    "discord.js-pagination": "^1.0.2",
+    "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
+    "math": "0.0.3",
+    "mathjs": "^7.2.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-gyp": "^7.1.0",
+    "novelcovid": "^3.0.0",
+    "quick-db": "^1.0.5",
+    "quick.hook": "^1.5.1",
+    "random-puppy": "^1.1.0",
+    "rebuild": "^0.1.2",
+    "something-random-on-discord": "0.0.2",
+    "weather": "^1.0.4",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^3.3.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "This is a bot"
+}
